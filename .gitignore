@@ -181,3 +181,14 @@ $RECYCLE.BIN/
 example.txt
 users.json
 my_todos.json
+
+# AI tool artifacts
+.claude/
+CLAUDE.md
+claude.md
+planning.md
+status.md
+notes.md
+todo.md
+*.chat
+*.conversation
