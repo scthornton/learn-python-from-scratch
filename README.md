@@ -159,3 +159,17 @@ Built with the goal of making Python accessible to everyone, regardless of their
 **Happy coding! 🐍**
 
 If you find this tutorial helpful, please star the repository and share it with others who want to learn Python!
+
+---
+
+## Contact
+
+**Scott Thornton** — AI Security Researcher
+
+- Website: [perfecxion.ai](https://perfecxion.ai/)
+- Email: [scott@perfecxion.ai](mailto:scott@perfecxion.ai)
+- LinkedIn: [linkedin.com/in/scthornton](https://www.linkedin.com/in/scthornton)
+- ORCID: [0009-0008-0491-0032](https://orcid.org/0009-0008-0491-0032)
+- GitHub: [@scthornton](https://github.com/scthornton)
+
+**Security Issues**: Please report via [SECURITY.md](SECURITY.md)
